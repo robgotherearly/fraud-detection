@@ -55,9 +55,43 @@ Analyze feature importance driving fraud predictions.
 
 ---
 
-## ⚙️ Installation & Usage
+## 📁 Dataset Requirements
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/fraud-detection-system.git
-cd fraud-detection-system
+- CSV format  
+- Must include a fraud label column:
+  - `fraud`
+  - `label`
+  - `is_fraud`
+  - `isFraud`
+- Numeric features only (non-numeric columns are ignored)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Scikit-Learn  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+
+---
+
+## 👤 Author
+
+**Robert Marsh Deku**  
+BA Political Science & Chinese – University of Ghana  
+
+**Aspiring Data Scientist & AI Engineer**
+
+**Interests:**
+- Artificial Intelligence  
+- Data Engineering  
+- Applied Machine Learning  
+
+---
+
+## 📄 License
+
+MIT License
+
