@@ -193,7 +193,7 @@ if "results" not in st.session_state:
 # Header
 st.markdown("""
 <div style="margin-bottom: 20px;">
-    <div class="header-title">🔴 Fraud Detection System</div>
+    <div class="header-title">🔴 Fraud Detection System by Robert Marsh Deku</div>
     <div class="header-subtitle">AI-powered machine learning model for detecting fraudulent transactions</div>
 </div>
 """, unsafe_allow_html=True)

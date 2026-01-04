@@ -1,5 +1,11 @@
 # 🔴 Fraud Detection System (Machine Learning + Streamlit)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 An **AI-powered fraud detection web application** built with **Scikit-Learn and Streamlit**.  
 The app allows users to train a machine learning model on transaction data and detect fraudulent activities with real-time risk assessment.
 
